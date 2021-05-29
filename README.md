@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @amar-jay
+- 👀 I’m a junior web developer with an urge to solve problems
+- 🌱 I’m currently learning back-end web development using Django
+- 💞️ I’m looking to collaborate on any backend or frontend web program.
+- 📫 You can reach me at <a href='mailto:abdelmanan.abdelrahman03@gmail.com'>abdelmanan.abdelrahman03@gmail.com </a>or on Twitter @AMAR_JAY17
