@@ -15,7 +15,7 @@
 ---
 
 ### About Me :
-A ReactJS & GraphQL with hands-on experience in designing & implementing highly-responsive UI. Proficient in translating designs & wireframes into high-quality code. Adept at monitoring & maintaining application performance to bolster overall performance. My Stack are  [ReactJS / NextJS](https://www.react.com/)  and [Postgresql](https://postgresql.org/) [& GraphQL](https://graphql.org/) [& Nodejs](https://nodejs.org/)
+A ReactJS & GraphQL with hands-on experience in designing & implementing highly-responsive UI. Proficient in translating designs & wireframes into high-quality code. Adept at monitoring & maintaining application performance to bolster overall performance. My Stack are  [ReactJS / NextJS](https://www.react.com/)  and [Postgresql](https://postgresql.org/) [& GraphQL](https://graphql.org/) [& Nodejs](https://nodejs.org/). I also work on some python projects too. 
 
 ## :mailbox:How to reach me:
 - [My Website](https://manans-site.veercel.app)
@@ -26,7 +26,7 @@ A ReactJS & GraphQL with hands-on experience in designing & implementing highly-
 ](https://twitter.com/AbdelmananAbde2)
 - 📷 [Instagram](http://instagram.com/amanan.jay)
  
- 📭 <a href='mailto:abdelmanan.abdelrahman21@gmail.com'>abdelmanan.abdelrahman03@gmail.com </a>
+- 📭 <a href='mailto:abdelmanan.abdelrahman21@gmail.com'>abdelmanan.abdelrahman03@gmail.com </a>
 
 ### :hammer_and_wrench: Languages and Tools :
 <div width="100%">
