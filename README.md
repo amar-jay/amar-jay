@@ -1,29 +1,32 @@
-- 👋 Hi, I’m amar-jay, a JavaScript/TypeScript developer
-- 👀 I’m looking to collaborate on any JS/TS projects.
-
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/FoVzfcqCDSb7zCynOp/giphy.gif" width="200"/>
    <div id="badges">
-    <a href="https://www.linkedin.com/in/abdelmanan-abdelrahman-9636551a4/">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
+   
+        Sapere Aude
+  
   </div>
-  <img src="https://komarev.com/ghpvc/?username=amar-jay&style=flat-square&color=blue" alt=""/>
-  <h1>
-    hey there
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  </h1>
+  <h1 align="center"> 
+   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Hi, I’m Amar Jay,</h1>
+   
 </div>
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <img src="http://my-blog-amar-jay.vercel.app/bg.gif" width="600" height="300"/>
 </div>
 
 ---
 
-### :TECHNOLOGY ETHUSIAST: About Me :
-I am an aspiring AI\Deep Learning Developer  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  and a Full Stack Developer. 
+### About Me :
+A ReactJS & GraphQL with hands-on experience in designing & implementing highly-responsive UI. Proficient in translating designs & wireframes into high-quality code. Adept at monitoring & maintaining application performance to bolster overall performance. My Stack are  [ReactJS / NextJS](https://www.react.com/)  and [Postgresql](https://postgresql.org/) [& GraphQL](https://graphql.org/) [& Nodejs](https://nodejs.org/)
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-shirazbello2-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shirazbello2/)
+## :mailbox:How to reach me:
+[My Website](https://manans-site.veercel.app)
+
+[![Linkedin Badge](https://img.shields.io/badge/-abdelmanan-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/abdelmanan-abdelrahman-9636551a4/)
+
+ [ ![Twitter](https://img.shields.io/twitter/url/https/twitter.com/AbdelmananAbde.svg?style=social&label=Follow%20%40AbdelmananAbde2)
+](https://twitter.com/AbdelmananAbde2)
+ 📷 [Instagram](http://instagram.com/amanan.jay)
+ 
+ 📭 <a href='mailto:abdelmanan.abdelrahman21@gmail.com'>abdelmanan.abdelrahman03@gmail.com </a>
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
@@ -42,7 +45,3 @@ I am an aspiring AI\Deep Learning Developer  <img src="https://media.giphy.com/m
 </div>&nbsp;
   
 </div>
-- 📫 You can reach me on;
-1. 📭 <a href='mailto:abdelmanan.abdelrahman21@gmail.com'>abdelmanan.abdelrahman03@gmail.com </a>
-2. 📷 [Instagram](http://instagram.com/amanan.jay)
-3. 📮 [Twitter](http://twitter.com/@AMAR_JAY17)
