@@ -5,7 +5,7 @@
   
   </div>
   <h1 align="center"> 
-   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Hi, I’m Amar Jay,</h1>
+   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="10"/> Hi, I’m Amar Jay,</h1>
    
 </div>
 <div align="center">
@@ -18,22 +18,22 @@
 A ReactJS & GraphQL with hands-on experience in designing & implementing highly-responsive UI. Proficient in translating designs & wireframes into high-quality code. Adept at monitoring & maintaining application performance to bolster overall performance. My Stack are  [ReactJS / NextJS](https://www.react.com/)  and [Postgresql](https://postgresql.org/) [& GraphQL](https://graphql.org/) [& Nodejs](https://nodejs.org/)
 
 ## :mailbox:How to reach me:
-[My Website](https://manans-site.veercel.app)
+- [My Website](https://manans-site.veercel.app)
 
-[![Linkedin Badge](https://img.shields.io/badge/-abdelmanan-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/abdelmanan-abdelrahman-9636551a4/)
+- [![Linkedin Badge](https://img.shields.io/badge/-abdelmanan-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/abdelmanan-abdelrahman-9636551a4/)
 
- [ ![Twitter](https://img.shields.io/twitter/url/https/twitter.com/AbdelmananAbde.svg?style=social&label=Follow%20%40AbdelmananAbde2)
+- [ ![Twitter](https://img.shields.io/twitter/url/https/twitter.com/AbdelmananAbde.svg?style=social&label=Follow%20%40AbdelmananAbde2)
 ](https://twitter.com/AbdelmananAbde2)
- 📷 [Instagram](http://instagram.com/amanan.jay)
+- 📷 [Instagram](http://instagram.com/amanan.jay)
  
  📭 <a href='mailto:abdelmanan.abdelrahman21@gmail.com'>abdelmanan.abdelrahman03@gmail.com </a>
 
 ### :hammer_and_wrench: Languages and Tools :
 <div width="100%">
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwind/tailwind-plain-wordmark.svg"  title="Tailwind" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="WordPress" **alt="WordPress" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
@@ -41,7 +41,6 @@ A ReactJS & GraphQL with hands-on experience in designing & implementing highly-
   <img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain-wordmark.svg" title="MssQl" **alt="MssQl" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" **alt="Python" width="40" height="40"/>
 </div>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="WordPress" **alt="WordPress" width="40" height="40"/>
 </div>&nbsp;
   
 </div>
