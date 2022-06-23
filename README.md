@@ -18,7 +18,7 @@
 A ReactJS & GraphQL with hands-on experience in designing & implementing highly-responsive UI. Proficient in translating designs & wireframes into high-quality code. Adept at monitoring & maintaining application performance to bolster overall performance. My Stack are  [ReactJS / NextJS](https://www.react.com/)  and [Postgresql](https://postgresql.org/) [& GraphQL](https://graphql.org/) [& Nodejs](https://nodejs.org/). I also work on some python projects too. 
 
 ## :mailbox:How to reach me:
-- [My Website](https://manans-site.veercel.app)
+- [My Website](https://manans-site.vercel.app)
 
 - [![Linkedin Badge](https://img.shields.io/badge/-abdelmanan-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/abdelmanan-abdelrahman-9636551a4/)
 
