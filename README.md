@@ -1,6 +1,8 @@
 <div id="header" align="center">
    <div id="badges">
+      
         Sapere Aude
+      
   </div>
 </div>
   <h1 align="center"> 
