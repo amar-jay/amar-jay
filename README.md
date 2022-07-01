@@ -15,7 +15,7 @@
 ---
 
 ### About Me :
-A ReactJS & GraphQL with hands-on experience in designing & implementing highly-responsive UI. Proficient in translating designs & wireframes into high-quality code. Adept at monitoring & maintaining application performance to bolster overall performance. My Stack are  [ReactJS / NextJS](https://www.react.com/)  and [Postgresql](https://postgresql.org/) [& GraphQL](https://graphql.org/) [& Nodejs](https://nodejs.org/). I also work on some python projects too. 
+I am Abdel-manan, a NextJS, TypeScript & GraphQL entusiast.
 
 ## :mailbox:How to reach me:
 - [My Website](https://manans-site.vercel.app)
