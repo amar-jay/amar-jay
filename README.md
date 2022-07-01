@@ -1,21 +1,16 @@
 <div id="header" align="center">
    <div id="badges">
-   
         Sapere Aude
-  
   </div>
+</div>
   <h1 align="center"> 
-   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/> Hi, I’m Amar Jay,</h1>
-   
-</div>
-<div align="center">
-  <img src="http://my-blog-amar-jay.vercel.app/bg.gif" width="600" height="300"/>
-</div>
-
----
+   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/> Hi, I’m Amar Jay
+ </h1>
 
 ### About Me :
-I am Abdel-manan, a NextJS, TypeScript & GraphQL entusiast.
+My name is Abdel-manan A.R., a NextJS, TypeScript & GraphQL entusiast.
+
+---
 
 ## :mailbox:How to reach me:
 - [My Website](https://manans-site.vercel.app)
