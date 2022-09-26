@@ -15,15 +15,17 @@ My name is Abdel-manan A.R., a NextJS, TypeScript & GraphQL entusiast.
 ---
 
 ## :mailbox:How to reach me:
-- [My Website](https://manans-site.vercel.app)
+- 🕸️ [My Website](https://manans-site.vercel.app)
 
-- [![Linkedin Badge](https://img.shields.io/badge/-abdelmanan-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/abdelmanan-abdelrahman-9636551a4/)
+- 🧑‍💼 [LinkedIn](https://www.linkedin.com/in/abdelmanan-abdelrahman-9636551a4/)
 
-- [ ![Twitter](https://img.shields.io/twitter/url/https/twitter.com/AbdelmananAbde.svg?style=social&label=Follow%20%40AbdelmananAbde2)
-](https://twitter.com/AbdelmananAbde2)
+- 🐦 [Twitter](https://twitter.com/AbdelmananAbde2)
+
 - 📷 [Instagram](http://instagram.com/amanan.jay)
  
 - 📭 <a href='mailto:abdelmanan.abdelrahman21@gmail.com'>abdelmanan.abdelrahman03@gmail.com </a>
+
+
 
 ### :hammer_and_wrench: Languages and Tools :
 <div width="100%">
