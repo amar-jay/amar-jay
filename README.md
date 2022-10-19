@@ -10,11 +10,9 @@
  </h1>
 
 ### About Me :
-My name is Abdel-manan A.R., a NextJS, TypeScript & GraphQL entusiast.
+My name is A.Manan. I am a NextJS, TypeScript & GraphQL enthusiast.
 
----
-
-## :mailbox:How to reach me:
+### :mailbox:How to reach me:
 - 🕸️ [My Website](https://manans-site.vercel.app)
 
 - 🧑‍💼 [LinkedIn](https://www.linkedin.com/in/abdelmanan-abdelrahman-9636551a4/)
@@ -30,16 +28,19 @@ My name is Abdel-manan A.R., a NextJS, TypeScript & GraphQL entusiast.
 ### :hammer_and_wrench: Languages and Tools :
 <div width="100%">
    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwindcss"/>
-   <img src="https://img.shields.io/badge/Chakra--UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white" alt="Chakra UI"/>
-   <br/>
+   <img src="https://img.shields.io/badge/Nextjs-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Nextjs"/>
+   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="Typescript"/>
    <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
-   <img src="https://img.shields.io/badge/Apollo%20GraphQL-311C87?&style=for-the-badge&logo=Apollo%20GraphQL&logoColor=white" alt="Apollo GraphQL"/>
-   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
    <br/>
-   <img src="https://img.shields.io/badge/Expo-1B1F23?style=for-the-badge&logo=expo&logoColor=white" />
+   <img src="https://img.shields.io/badge/Graphql-e006e0?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL"/>
    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" title="PostgreSQL"  alt="PostgreSQL" />
-   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
    <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go"/>
+   <img src="https://img.shields.io/badge/railway-333333?style=for-the-badge&logo=railway&logoColor=white" alt="Railway"/>
+   <br/>
+   <img src="https://img.shields.io/badge/Expo-1B1F23?style=for-the-badge&logo=expo&logoColor=white" alt="Expo"/>
+   <img src="https://img.shields.io/badge/Rust-b65006?style=for-the-badge&logo=rust&logoColor=white" alt="Rust"/>
+   <img src="https://img.shields.io/badge/GCP-fff000?style=for-the-badge&logo=google%20cloud&color=fedcba" alt="GCP" />
+   
 <!--   <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" title="Matlab" alt="Matlab" width="40" height="40"/>&nbsp; -->
  
 </div>
