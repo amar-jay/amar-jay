@@ -21,7 +21,7 @@ My name is A.Manan. I am a NextJS, TypeScript & GraphQL enthusiast.
 
 - 📷 [Instagram](http://instagram.com/amanan.jay)
  
-- 📭 <a href='mailto:abdelmanan.abdelrahman21@gmail.com'>abdelmanan.abdelrahman03@gmail.com </a>
+- 📭 <a href='mailto:me@themanan.me'>me@themanan.me</a>
 
 
 
