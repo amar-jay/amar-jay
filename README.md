@@ -1,18 +1,18 @@
 <div id="header" align="center">
    <div id="badges">
       
-        Sapere Aude
+        AD EXTREMUM
       
   </div>
 </div>
-  <h1 align="center"> 
+  <h3 align="left" style="margin:5rem;"> 
    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/> Hi, I’m Amar Jay
- </h1>
+ </h3>
 
-### About Me :
+#### About Me :
 My name is A.Manan. I am a NextJS, TypeScript & GraphQL enthusiast.
 
-### :mailbox:How to reach me:
+#### :mailbox:How to reach me:
 - 🕸️ [My Website](https://manans-site.vercel.app)
 
 - 🧑‍💼 [LinkedIn](https://www.linkedin.com/in/abdelmanan-abdelrahman-9636551a4/)
@@ -21,11 +21,11 @@ My name is A.Manan. I am a NextJS, TypeScript & GraphQL enthusiast.
 
 - 📷 [Instagram](http://instagram.com/amanan.jay)
  
-- 📭 <a href='mailto:me@themanan.me'>me@themanan.me</a>
+- 📭 <a href='mailto:me@themanan.me'>Email</a>
 
 
 
-### :hammer_and_wrench: Languages and Tools :
+#### :hammer_and_wrench: Languages and Tools :
 <div width="100%">
    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwindcss"/>
    <img src="https://img.shields.io/badge/Nextjs-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Nextjs"/>
