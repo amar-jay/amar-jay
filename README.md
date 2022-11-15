@@ -11,9 +11,11 @@
  </h3>
 
 #### About Me :
-My name is A.Manan. I am a NextJS, TypeScript & GraphQL enthusiast.
+I am a ReactJS, TypeScript & GraphQL enthusiast. <br/>
+I am passionate about innovation and applying creativity in a business that makes a meaningful difference to the world. <br/>
+I am fallible like all humans and like to confront my mistakes. I am open to varied opinions, advice or disapproval about me and my work. <br/>
+If you have any, you can reach me on:
 
-#### :mailbox:How to reach me:
 - 🕸️ [My Website](https://manans-site.vercel.app)
 
 - 🧑‍💼 [LinkedIn](https://www.linkedin.com/in/abdelmanan-abdelrahman-9636551a4/)
