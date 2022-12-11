@@ -22,6 +22,8 @@ If you have any, you can reach me on:
 
 - 🐦 [Twitter](https://twitter.com/AbdelmananAbde2)
 
+- 📰 [Medium](https://medium.com/@amanann)
+
 - 📷 [Instagram](http://instagram.com/amanan.jay)
  
 - 📭 <a href='mailto:me@themanan.me'>Email</a>
