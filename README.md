@@ -11,7 +11,7 @@
  </h3>
 
 #### About Me :
-I am a ReactJS, TypeScript & GraphQL enthusiast. <br/>
+I am a ReactJS, TypeScript & Go enthusiast. <br/>
 I am passionate about innovation and applying creativity in a business that makes a meaningful difference to the world. <br/>
 I am fallible like all humans and like to confront my mistakes. I am open to varied opinions, advice or disapproval about me and my work. <br/>
 If you have any, you can reach me on:
@@ -28,7 +28,7 @@ If you have any, you can reach me on:
  
 - 📭 <a href='mailto:me@themanan.me'>Email</a>
 
-
+<!-- 
 
 #### :hammer_and_wrench: Languages and Tools :
 <div width="100%">
@@ -46,9 +46,9 @@ If you have any, you can reach me on:
    <img src="https://img.shields.io/badge/Rust-b65006?style=for-the-badge&logo=rust&logoColor=white" alt="Rust"/>
    <img src="https://img.shields.io/badge/GCP-fff000?style=for-the-badge&logo=google%20cloud&color=fedcba" alt="GCP" />
    
-<!--   <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" title="Matlab" alt="Matlab" width="40" height="40"/>&nbsp; -->
+  <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" title="Matlab" alt="Matlab" width="40" height="40"/>&nbsp;
  
-</div>
+</div> -->
 </div>&nbsp;
   
 </div>
