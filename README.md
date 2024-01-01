@@ -1,22 +1,25 @@
 <div id="header" align="center">
    <div id="badges">
-      
-        AD EXTREMUM
+              
+        AUREA MEDIOCRITAS
       
   </div>
 </div>
-  <h3 align="left" style="margin:5rem;"> 
+<h3 align="left" style="margin:5rem;"> 
    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/> 
    Hi, I’m Abdel-manan Junior Abdel-rahman 
- </h3>
+</h3>
 
+Just having some fun
+<!--
 #### About Me :
 I am a ReactJS, TypeScript & Go enthusiast. <br/>
 I am passionate about innovation and applying creativity in a business that makes a meaningful difference to the world. <br/>
 I am fallible like all humans and like to confront my mistakes. I am open to varied opinions, advice or disapproval about me and my work. <br/>
 If you have any, you can reach me on:
+-->
 
-- 🕸️ [My Website](https://manans-site.vercel.app)
+<!-- - 🕸️ [My Website](https://manans-site.vercel.app) -->
 
 - 🧑‍💼 [LinkedIn](https://www.linkedin.com/in/abdelmanan-abdelrahman-9636551a4/)
 
@@ -26,7 +29,7 @@ If you have any, you can reach me on:
 
 - 📷 [Instagram](http://instagram.com/amanan.jay)
  
-- 📭 <a href='mailto:me@themanan.me'>Email</a>
+- 📭 <a href='mailto:abdmananjnr@gmail.com'>Email</a>
 
 <!-- 
 
