@@ -1,8 +1,8 @@
 <div id="header" align="center">
    <div id="badges">
               
-        AUREA MEDIOCRITAS
-      
+        AERE PERENNIUS
+        
   </div>
 </div>
 <h3 align="left" style="margin:5rem;"> 
