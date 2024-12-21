@@ -5,10 +5,10 @@
   
   </div>
 </div>
-<h3 align="left" style="margin:5rem;"> 
+<!-- <h3 align="left" style="margin:5rem;"> 
    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/> 
    Hi, I’m Abdel-manan Junior Abdel-rahman 
-</h3>
+</h3> -->
 
 ### 🚀 2025 Projects & Goals  
 Each year, I set a series of ambitious projects to challenge myself. Here’s what I’m working on this year and the resources guiding me:
@@ -31,7 +31,6 @@ Each year, I set a series of ambitious projects to challenge myself. Here’s wh
      - [VerticalResearchGroup/miaow](https://github.com/VerticalResearchGroup/miaow)  
      - [adam-maj/tiny-gpu](https://github.com/adam-maj/tiny-gpu)  
 
-- [ ] **RL + Transformers**  
-   Implement RLHF, PPO, and DPO techniques to enhance and fine-tune transformer models.
-   Resources:
-      - [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch)
+- [ ] **RL + Transformers**
+   Implement RLHF, PPO, and DPO techniques to enhance and fine-tune transformer models.  
+   Resource: [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch)
