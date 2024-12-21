@@ -9,8 +9,11 @@
    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/> 
    Hi, I’m Abdel-manan Junior Abdel-rahman 
 </h3> -->
+<div style="margin:5rem;">
+   <h3> 🚀 2025 Projects & Goals </h3>
+</div>
 
-### 🚀 2025 Projects & Goals  
+### 
 Each year, I set a series of ambitious projects to challenge myself. Here’s what I’m working on this year and the resources guiding me:
 
 - [ ] **PCB Design with Altium**  
