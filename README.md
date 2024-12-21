@@ -25,7 +25,8 @@ Each year, I set a series of ambitious projects to challenge myself. Here’s wh
    Resource: [TinyTapeout](https://tinytapeout.com/)  
 
 - [ ] **RISC-V CPU Design**  
-   Build a RISC-V core processor, exploring every aspect of its architecture.  
+   Build a RISC-V core processor, exploring every aspect of its architecture.    
+   Resource: [The RISCV Reader](https://www.cs.sfu.ca/~ashriram/Courses/CS295/assets/books/rvbook.pdf)  
 
 - [ ] **GPGPU Development**  
    Create your own GPGPU based on the RISC-V ISA and develop the necessary drivers.  
@@ -37,3 +38,7 @@ Each year, I set a series of ambitious projects to challenge myself. Here’s wh
 - [ ] **RL + Transformers**
    Implement RLHF, PPO, and DPO techniques to enhance and fine-tune transformer models.  
    Resource: [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch)
+
+- [ ] **SLAM Implementation**  
+   Recreate a minified SLAM to understand its core operations.  
+   Resource: [geohot/twitchslam](https://github.com/geohot/twitchslam)
