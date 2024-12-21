@@ -35,7 +35,7 @@ Each year, I set a series of ambitious projects to challenge myself. Here’s wh
      - [VerticalResearchGroup/miaow](https://github.com/VerticalResearchGroup/miaow)  
      - [adam-maj/tiny-gpu](https://github.com/adam-maj/tiny-gpu)  
 
-- [ ] **RL + Transformers**
+- [ ] **RL + Transformers**   
    Implement RLHF, PPO, and DPO techniques to enhance and fine-tune transformer models.  
    Resource: [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch)
 
