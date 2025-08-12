@@ -1,7 +1,7 @@
 <div id="header" align="center">
    <div id="badges">
               
-       AUDENTIS FORTUNA IUVAT
+       AUDENTIS FORTUNA IUVAT         
   
   </div>
 </div>
