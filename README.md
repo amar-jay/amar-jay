@@ -1,7 +1,7 @@
 <div id="header" align="center">
    <div id="badges">
               
-       AD ASTRA PER ASPERA         
+       AUDENTIS FORTUNA IUVAT
   
   </div>
 </div>
