@@ -28,13 +28,6 @@ Each year, I set a series of ambitious projects to challenge myself. Here’s wh
    Build a RISC-V core processor, exploring every aspect of its architecture.    
    Resource: [The RISCV Reader](https://www.cs.sfu.ca/~ashriram/Courses/CS295/assets/books/rvbook.pdf)  
 
-- [ ] **GPGPU Development**  
-   Create your own GPGPU based on the RISC-V ISA and develop the necessary drivers.  
-   Resources:  
-     - [hughperkins/VeriGPU](https://github.com/hughperkins/VeriGPU)  
-     - [VerticalResearchGroup/miaow](https://github.com/VerticalResearchGroup/miaow)  
-     - [adam-maj/tiny-gpu](https://github.com/adam-maj/tiny-gpu)  
-
 - [ ] **RL + Transformers**   
    Implement RLHF, PPO, and DPO techniques to enhance and fine-tune transformer models.  
    Resource: [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch)
