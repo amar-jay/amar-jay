@@ -1,7 +1,7 @@
 <div id="header" align="center">
    <div id="badges">
               
-       AUDENTIS FORTUNA IUVAT         
+       孤独T         
   
   </div>
 </div>
