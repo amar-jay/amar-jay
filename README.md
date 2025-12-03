@@ -9,7 +9,7 @@
    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/> 
    Hi, I’m Abdel-manan Junior Abdel-rahman 
 </h3> -->
-<div style="margin:5rem;">
+<!-- <div style="margin:5rem;">
    <h3> 🚀 2025 Projects & Goals </h3>
 </div>
 
@@ -34,4 +34,4 @@ Each year, I set a series of ambitious projects to challenge myself. Here’s wh
 
 - [ ] **SLAM Implementation**  
    Recreate a minified SLAM to understand its core operations.  
-   Resource: [geohot/twitchslam](https://github.com/geohot/twitchslam)
+   Resource: [geohot/twitchslam](https://github.com/geohot/twitchslam) -->
